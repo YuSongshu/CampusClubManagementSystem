@@ -27,7 +27,7 @@ src
 
 ## 本地部署
 
-修改db.properties配置文件完善driver，url，password
+修改db.properties配置文件完善MySQL的driver，url，password
 
 
 
