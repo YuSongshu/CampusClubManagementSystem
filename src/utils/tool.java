@@ -130,7 +130,8 @@ public class tool {
             System.out.print("活动地点：");
             String place = sc.next();
             System.out.print("活动时间(yyyy-MM-dd HH:mm:ss)：");
-            String time = sc.next();
+            sc.nextLine();
+            String time = sc.nextLine();
             System.out.print("人数限制：");
             int max = sc.nextInt();
             sc.next();
